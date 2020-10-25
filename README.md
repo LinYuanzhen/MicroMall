@@ -1,2 +1,2 @@
-# MyMall
+# MicroMall
 A distributed microservice project
